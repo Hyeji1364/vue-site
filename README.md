@@ -6,3 +6,7 @@
 npm install sass
 npm install gsap
 ```
+
+## 실행
+
+npm run dex
