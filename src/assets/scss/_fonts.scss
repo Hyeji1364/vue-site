@@ -3,8 +3,10 @@
 @import url("https://websfont.github.io/gmarket/gmarket.css");
 @import url("https://websfont.github.io/websfont/websfont.css");
 
-.mont {
-    font-family: "Montserrat";
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Hahmlet:wght@100..900&display=swap');
+
+.DM {
+    font-family: "DM Serif Text", serif;
 }
 .nanum {
     font-family: "nanumSquareNeo";

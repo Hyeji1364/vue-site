@@ -9,4 +9,10 @@ npm install gsap
 
 ## 실행
 
+```
 npm run dev
+```
+
+### scoped
+
+중복방지
